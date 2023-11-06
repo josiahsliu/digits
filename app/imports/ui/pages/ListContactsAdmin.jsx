@@ -16,7 +16,7 @@ const ListContactsAdmin = () => {
     const subscription = Meteor.subscribe(Contacts.adminPublicationName);
     // Determine if the subscription is ready
     const rdy = subscription.ready();
-    // Get the Contacts documents
+    // Get the Notes documents
     const contactItems = Contacts.collection.find({}).fetch();
     return {
       contacts: contactItems,
