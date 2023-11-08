@@ -1,2 +1,0 @@
-<img src ="landing.png">
-
