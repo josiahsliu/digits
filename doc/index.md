@@ -1,4 +1,4 @@
-<img src ="doc/landing.png">
+<img src ="doc/landing">
 
 Digits is an application that allows users to:
 
